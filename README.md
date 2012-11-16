@@ -1,11 +1,11 @@
 # silent
-> This small shell script provides a function to execute a command in silent mode
+> This small shell script provides a function to execute a command in silent mode<br />
 > *Version: 0.00.01*
 
 ***
 
 **Auhtor:** Timo Furrer <tuxtimo@gmail.com><br />
-**License:** GPL
+**License:** GPL<br />
 **Version:** 0.00.01
 
 ## Install
