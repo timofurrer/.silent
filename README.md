@@ -18,12 +18,12 @@ Clone the git repository first:
 
 Now you can source the `silent.sh` inside the `~/.silent` directory, or whereever you cloned the repository into.
 
-    source ~/silent/silent.sh
+    source ~/.silent/silent.sh
 
 If you want to have this command available in every shell you open, you can but the following line into your configuration file, like the `~/.bashrc`:
 
     # Provide silent command
-    source ~/silent/silent.sh
+    source ~/.silent/silent.sh
 
 ### I just want the `silent.sh`
 
